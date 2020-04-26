@@ -2,6 +2,9 @@
 	"folders": [
 		{
 			"path": "weather"
+		},
+		{
+			"path": "..\\DO101-apps"
 		}
 	],
 	"settings": {}
